@@ -1,11 +1,11 @@
 ## 👋 Hello! I'm Narendra Modhavadiya
 
 🎓 Diploma Student in Computer Engineering  
-🔐 Cybersecurity Intern | 🛡️ Ethical Hacking Enthusiast  
+🔐 Django with Python and Cybersecurity Intern | 🛡️ Ethical Hacking Enthusiast  
 💻 Passionate about Linux, Python, Networking & Web Development  
 🏆 Indus Hackathon Ahmedabad 2025 Participant  
 🧪 Projects: Online Test Platform | Password Checker | Cyber Tools  
-🌱 Currently learning: Full Stack Web Development
+🌱 Currently learning: Bash, Cybersecurity and Cyber Tools
 
 ---
 
