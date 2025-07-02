@@ -1,4 +1,6 @@
-# 👋 Hello! I'm Narendra Modhavadiya
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Narendra+Modhavadiya!;I+am+Web+Developer;Cybersecurity+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 🎓 **Diploma Student** in Computer Engineering  
 🔐 **Django with Python** and **Cybersecurity Intern** | 🛡️ **Ethical Hacking Enthusiast**  
@@ -6,12 +8,6 @@
 🏆 **Indus Hackathon Ahmedabad 2025** Participant  
 🧪 Projects: **Online Test Platform** | **Password Checker** | **Cyber Tools**  
 🌱 Currently learning: **Bash**, **Cybersecurity**, and **Cyber Tools**
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Narendra+Modhavadiya!;I+am+a+Full+Stack+Developer;Cybersecurity+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
 ---
 
