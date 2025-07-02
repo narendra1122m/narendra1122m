@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hello! I'm Narendra Modhavadiya
 
-<!--
-**narendra1122m/narendra1122m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Student in Computer Engineering  
+🔐 Cybersecurity Intern | 🛡️ Ethical Hacking Enthusiast  
+💻 Passionate about Linux, Python, Networking & Web Development  
+🏆 Indus Hackathon Ahmedabad 2025 Participant  
+🧪 Projects: Online Test Platform | Password Checker | Cyber Tools  
+🌱 Currently learning: Full Stack Web Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- 💻 Languages: C, C++, Python, HTML, CSS, JavaScript, PHP
+- 🌐 Web: Bootstrap, MySQL, GitHub Pages
+- 🧰 Tools: Kali Linux, Git, Wireshark, VirtualBox, Nmap
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narendra1122m&show_icons=true&theme=default)
+
+---
+
+## 📂 Featured Projects
+- 🔒 [Password Strength Checker](https://github.com/narendra1122m/Password-Checker)
+- 🧪 [Online Test Platform](https://github.com/narendra1122m/Online-Test-Platform)
+- 🛡️ [Cybersecurity Toolkit](https://github.com/narendra1122m/Cybersecurity-Tools)
+
+---
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]
+(https://www.linkedin.com/in/narendra-modhavadiya-443616309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+📧 Email: your.email@example.com  
+🌐 Portfolio: [https://narendra1122m.github.io](https://narendra1122m.github.io)
