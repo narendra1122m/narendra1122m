@@ -22,7 +22,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🔒 [Password Strength Checker](https://github.com/narendra1122m/Password-Checker)
+- 🔒 [Password Strength Checker](https://github.com/narendra1122m/Password-Strength-Checker)
 - 🧪 [Online Test Platform](https://github.com/narendra1122m/Online-Test-Platform)
 - 🛡️ [Cybersecurity Toolkit](https://github.com/narendra1122m/Cybersecurity-Tools)
 
