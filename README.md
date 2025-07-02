@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Narendra Modhavadiya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=600&lines=I+am+a+WebDeveloper;Cybersecurity+Enthusiast+%F0%9F%94%92;Linux+Lover;Python+%7C+Bash" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=600&lines=I+am+a+Web Developer;Cybersecurity+Enthusiast+%F0%9F%94%92;Linux+Lover;Python+%7C+Bash" alt="Typing SVG" />
 </p>
 
 ---
