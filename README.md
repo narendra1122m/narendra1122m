@@ -30,6 +30,6 @@
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]
-(https://www.linkedin.com/in/narendra-modhavadiya-443616309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
-📧 Email: your.email@example.com  
+https://www.linkedin.com/in/narendra-modhavadiya-443616309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+📧 Email: narendra1122m@gmail.com
 🌐 Portfolio: [https://narendra1122m.github.io](https://narendra1122m.github.io)
