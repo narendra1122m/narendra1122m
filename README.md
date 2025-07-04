@@ -15,7 +15,7 @@
 🔐 **Django with Python** and **Cybersecurity Intern** | 🛡️ **Ethical Hacking Enthusiast**  
 💻 Passionate about **Linux**, **Python**, **Networking**, & **Web Development**  
 🏆 **Indus Hackathon Ahmedabad 2025** Participant  
-🧪 Projects: **Online Test Platform** | **Password Checker** | **Cyber Tools**  
+🧪 Projects: **Online Test Platform** | **Password Checker**
 🌱 Currently learning: **Bash**, **Cybersecurity**, and **Cyber Tools**
 
 ---
